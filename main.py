@@ -45,8 +45,6 @@ def calculer_possibilites_mot_de_passe_fixe(longueur, nbchar):
     return nbchar ** longueur
 
 
-
-
 def afficher_nombre_par_trois(n):
     nombre_formatte = f'{n:,}'.replace(',', ' ')
     return nombre_formatte
