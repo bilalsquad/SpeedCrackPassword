@@ -52,7 +52,7 @@ def afficher_nombre_par_trois(n):
 
 def tpm_RTX4090_Hscat_22000(nombreposs): 
 
-    return nombreposs/(100*2533000000)
+    return nombreposs/(66000)
     
     ## Au cas ou un M2 c'est juste 2936.72 H/s
 
@@ -68,8 +68,8 @@ def days_to_years(days):
 #### Code 
 ##################
 
-possibilite = 36
-longueur = 8
+possibilite = 10
+longueur = 10
 
 
 print("\n")
