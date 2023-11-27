@@ -85,3 +85,6 @@ print("Ce temps en jours : " , sec_to_days(tpm_RTX4090_Hscat_22000(calculer_poss
 print("Ce temps en année : " , days_to_years(sec_to_days(tpm_RTX4090_Hscat_22000(calculer_possibilites_mot_de_passe_fixe(longueur,possibilite)))), " années",  "\n" )
 
 print("Facteur de rapidité entre longueur fixe et all :  ", tpm_RTX4090_Hscat_22000(calculer_possibilites_mot_de_passe_all(longueur,possibilite))/tpm_RTX4090_Hscat_22000(calculer_possibilites_mot_de_passe_fixe(longueur,possibilite)) )
+
+
+cdcdcd
